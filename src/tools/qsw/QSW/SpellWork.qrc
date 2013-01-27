@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/SpellWork">
+        <file>mangos.ico</file>
+        <file>qt-logo.png</file>
+    </qresource>
+</RCC>
